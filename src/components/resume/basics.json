@@ -1,0 +1,48 @@
+{
+  "collectionName": "components_resume_basics",
+  "info": {
+    "displayName": "Basic",
+    "icon": "information"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "default": "Rohit Khanduri"
+    },
+    "label": {
+      "type": "string"
+    },
+    "email": {
+      "type": "email",
+      "default": "rohit.khanduri@hotmail.com"
+    },
+    "url": {
+      "type": "string"
+    },
+    "summary": {
+      "type": "text"
+    },
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "location": {
+      "type": "component",
+      "component": "resume.location",
+      "repeatable": false
+    },
+    "profiles": {
+      "type": "component",
+      "component": "resume.profile",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

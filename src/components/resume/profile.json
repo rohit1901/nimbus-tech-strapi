@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_resume_profiles",
+  "info": {
+    "displayName": "Profile",
+    "icon": "user"
+  },
+  "options": {},
+  "attributes": {
+    "network": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

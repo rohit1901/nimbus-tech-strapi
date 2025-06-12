@@ -1,0 +1,44 @@
+{
+  "name": "nimbus-tech-strapi",
+  "version": "0.1.0",
+  "description": "A Strapi application for Nimbus Tech GmbH",
+  "scripts": {
+    "build": "strapi build",
+    "console": "strapi console",
+    "deploy": "strapi deploy",
+    "dev": "strapi develop",
+    "develop": "strapi develop",
+    "seed:example": "node ./scripts/seed.js",
+    "start": "strapi start",
+    "strapi": "strapi",
+    "upgrade": "npx @strapi/upgrade latest",
+    "upgrade:dry": "npx @strapi/upgrade latest --dry"
+  },
+  "dependencies": {
+    "@strapi/plugin-cloud": "^5.15.1",
+    "@strapi/plugin-users-permissions": "^5.15.1",
+    "@strapi/strapi": "^5.15.1",
+    "better-sqlite3": "11.3.0",
+    "fs-extra": "^10.0.0",
+    "mime-types": "^2.1.27",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.0.0",
+    "strapi-import-export": "^0.0.1",
+    "styled-components": "^6.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "typescript": "^5"
+  },
+  "engines": {
+    "node": ">=18.0.0 <=22.x.x",
+    "npm": ">=6.0.0"
+  },
+  "strapi": {
+    "uuid": "fc282486-c318-4b9b-a8fa-e1b1da8b406e",
+    "installId": "2b919ca796e776d8d0d0e2add57f05d401cf60c4c1dd0908613f5c5b86e0c74c"
+  }
+}

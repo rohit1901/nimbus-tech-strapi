@@ -1,0 +1,32 @@
+{
+  "collectionName": "components_resume_volunteers",
+  "info": {
+    "displayName": "Volunteer",
+    "icon": "feather"
+  },
+  "options": {},
+  "attributes": {
+    "organisation": {
+      "type": "string"
+    },
+    "position": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string"
+    },
+    "highlights": {
+      "type": "json"
+    },
+    "summary": {
+      "type": "text"
+    },
+    "startDate": {
+      "type": "date"
+    },
+    "endDate": {
+      "type": "date"
+    }
+  },
+  "config": {}
+}

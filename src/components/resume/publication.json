@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_resume_publications",
+  "info": {
+    "displayName": "Publication",
+    "icon": "filePdf"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "publisher": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string"
+    },
+    "summary": {
+      "type": "text"
+    },
+    "releaseDate": {
+      "type": "date"
+    }
+  },
+  "config": {}
+}

@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_resume_locations",
+  "info": {
+    "displayName": "Location",
+    "icon": "pinMap"
+  },
+  "options": {},
+  "attributes": {
+    "address": {
+      "type": "string"
+    },
+    "postalCode": {
+      "type": "string"
+    },
+    "city": {
+      "type": "string"
+    },
+    "countryCode": {
+      "type": "string"
+    },
+    "region": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

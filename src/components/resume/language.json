@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_resume_languages",
+  "info": {
+    "displayName": "Language",
+    "icon": "magic"
+  },
+  "options": {},
+  "attributes": {
+    "language": {
+      "type": "string"
+    },
+    "fluency": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

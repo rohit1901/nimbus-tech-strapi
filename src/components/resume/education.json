@@ -1,0 +1,32 @@
+{
+  "collectionName": "components_resume_educations",
+  "info": {
+    "displayName": "Education",
+    "icon": "monitor"
+  },
+  "options": {},
+  "attributes": {
+    "institution": {
+      "type": "string"
+    },
+    "location": {
+      "type": "string"
+    },
+    "area": {
+      "type": "string"
+    },
+    "studyType": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string"
+    },
+    "startDate": {
+      "type": "date"
+    },
+    "endDate": {
+      "type": "date"
+    }
+  },
+  "config": {}
+}

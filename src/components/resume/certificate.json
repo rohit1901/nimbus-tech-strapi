@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_resume_certificates",
+  "info": {
+    "displayName": "Certificate",
+    "icon": "shield"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "issuer": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string"
+    },
+    "date": {
+      "type": "date"
+    }
+  },
+  "config": {}
+}

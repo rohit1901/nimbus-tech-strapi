@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_resume_awards",
+  "info": {
+    "displayName": "Award",
+    "icon": "gift"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "awarder": {
+      "type": "string"
+    },
+    "summary": {
+      "type": "text"
+    },
+    "date": {
+      "type": "date"
+    }
+  },
+  "config": {}
+}
