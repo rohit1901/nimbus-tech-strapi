@@ -1,6 +1,6 @@
 {
   "name": "nimbus-tech-strapi",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A Strapi application for Nimbus Tech GmbH",
   "scripts": {
     "build": "strapi build",
