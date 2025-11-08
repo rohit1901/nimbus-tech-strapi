@@ -34,7 +34,7 @@ Easily manage your business website content with an intuitive admin panel and ro
 ### Prerequisites
 
 - [Node.js](https://nodejs.org/) (v16.x recommended)
-- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
+- [npm](https://www.npmjs.com/)
 - [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli) (for deployment)
 - [Git](https://git-scm.com/)
 
@@ -44,7 +44,7 @@ Easily manage your business website content with an intuitive admin panel and ro
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-org/nimbus-tech-cms.git
+   git clone https://github.com/rohit1901/nimbus-tech-cms.git
    cd nimbus-tech-cms
    ```
 
